@@ -1,0 +1,8 @@
+C:\Users\LaPeM\source\repos\Vjezba2-klase i objekti\Vjezba2-klase i objekti\bin\Debug\Vjezba2-klase i objekti.exe.config
+C:\Users\LaPeM\source\repos\Vjezba2-klase i objekti\Vjezba2-klase i objekti\bin\Debug\Vjezba2-klase i objekti.exe
+C:\Users\LaPeM\source\repos\Vjezba2-klase i objekti\Vjezba2-klase i objekti\bin\Debug\Vjezba2-klase i objekti.pdb
+C:\Users\LaPeM\source\repos\Vjezba2-klase i objekti\Vjezba2-klase i objekti\obj\Debug\Vjezba2-klase i objekti.csproj.AssemblyReference.cache
+C:\Users\LaPeM\source\repos\Vjezba2-klase i objekti\Vjezba2-klase i objekti\obj\Debug\Vjezba2-klase i objekti.csproj.SuggestedBindingRedirects.cache
+C:\Users\LaPeM\source\repos\Vjezba2-klase i objekti\Vjezba2-klase i objekti\obj\Debug\Vjezba2-klase i objekti.csproj.CoreCompileInputs.cache
+C:\Users\LaPeM\source\repos\Vjezba2-klase i objekti\Vjezba2-klase i objekti\obj\Debug\Vjezba2-klase i objekti.exe
+C:\Users\LaPeM\source\repos\Vjezba2-klase i objekti\Vjezba2-klase i objekti\obj\Debug\Vjezba2-klase i objekti.pdb
